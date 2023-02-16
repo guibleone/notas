@@ -1,3 +1,3 @@
-Projeto realizado com MERS.
+Projeto realizado com MERN.
 
 Frontend da aplicação
