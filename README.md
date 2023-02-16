@@ -1,3 +1,3 @@
-Projeto realizado com MERS, apoiado por cursos online
+Projeto realizado com MERS.
 
 Frontend da aplicação
